@@ -1,4 +1,4 @@
-# Machine-Learning-IDS
+# Machine-Learning-IDS-Survey
 
 ## Abstract
 In today’s world, the growing popularity of the Internet
